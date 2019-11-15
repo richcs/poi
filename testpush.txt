@@ -1,2 +1,2 @@
 file used to test jenkins trigger
-test 1
+test 2
